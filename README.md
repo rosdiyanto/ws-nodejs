@@ -25,8 +25,8 @@ Proyek ini adalah contoh sederhana **WebSocket server** menggunakan **Node.js** 
 1. **Clone repository ini:**
 
 ```bash
-git clone https://github.com/username/websocket-server.git
-cd websocket-server
+git clone https://github.com/rosdiyanto/ws-nodejs.git
+cd ws-nodejs
 ```
 
 2. **Pasang dependensi:**
